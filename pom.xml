@@ -39,7 +39,7 @@
 				      <muleVersion>4.3.0</muleVersion>
 			 		<username>jcurk</username>			  
 				      <password>Guesswhat567!</password>
-				      <applicationName>cicd-template</applicationName>
+				      <applicationName>cicd-template-Jojo</applicationName>
 				      <environment>Sandbox</environment>
 					  <businessGroup>Conflowence</businessGroup>
 				</cloudHubDeployment>
