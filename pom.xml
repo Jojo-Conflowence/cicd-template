@@ -43,6 +43,7 @@
 				      <environment>Sandbox</environment>
 					  <businessGroup>Conflowence</businessGroup>
 				</cloudHubDeployment>
+				<objectStoreV2>true</objectStoreV2> 
 				<classifier>mule-application</classifier>
                 </configuration>
 			</plugin>
