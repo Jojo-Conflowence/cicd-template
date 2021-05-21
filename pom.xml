@@ -37,11 +37,11 @@
 				<cloudHubDeployment>
 				      <uri>https://anypoint.mulesoft.com</uri>
 				      <muleVersion>4.3.0</muleVersion>
-				      <username>"PUT YOUR ANYPOINT PLATFORM USERNAME HERE"</username>			  
-				      <password>"PUT YOUR ANYPOINT PLATFORM PASSWORD HERE"</password>
-				      <applicationName>"PUT YOUR APPLICATION NAME HERE"</applicationName>
-				      <environment>"PUT YOUR DEPLOYMENT ENVIRONMENT HERE"</environment>
-					  <businessGroup>"PUT YOUR BUSINESS GROUP HERE"</businessGroup>
+			 		<username>jcurk</username>			  
+				      <password>Guesswhat567!</password>
+				      <applicationName>cicd-template</applicationName>
+				      <environment>Sandbox</environment>
+					  <businessGroup>Conflowence</businessGroup>
 				</cloudHubDeployment>
 				<classifier>mule-application</classifier>
                 </configuration>
